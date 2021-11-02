@@ -1,4 +1,6 @@
 # BookStore
+A simple frontend project, built in Angular, to show various store functionalities
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.3.
 
